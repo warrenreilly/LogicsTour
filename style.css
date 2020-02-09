@@ -1,0 +1,65 @@
+
+        .body1 {
+            background-image: url("codmp.png");
+        background-repeat: no-repeat;
+        background-size: 105%;
+        text-align: center;
+       color: rgba(4, 30, 145, 0.452);
+       
+    }
+
+
+    .body2 {
+        background-image: url("https://wallpaperaccess.com/full/472630.jpg");
+    background-repeat: no-repeat;
+    background-size: 100%;
+    text-align: center;
+   color: blue;
+
+    }
+   
+
+    .h11 {
+        font-family: Courier New;
+        font-size: 2em;
+        color: red;
+
+
+
+
+    }
+
+
+    .h12 {
+        font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+        font-size: 2em;
+        color: orange;
+
+    
+    }
+
+    .container {
+        position: absolute;
+        top: 25%;
+        width: 600px;
+        margin-right: 30%;
+        margin-left: 30%;
+    }
+
+
+    .table1 {
+        position: relative;
+        text-align: center;
+        margin: 0 auto;
+
+
+
+
+
+    }
+
+
+
+
+
+    
